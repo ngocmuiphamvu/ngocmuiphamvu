@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 Mình đang học tại **Đại học Kinh tế Quốc dân (NEU)** và theo đuổi hướng kết hợp giữa **Kinh tế – Dữ liệu – AI**.  
-Sau khi reset toàn bộ GitHub, mình muốn xây lại mọi thứ từ nền tảng đầu tiên: học thật – hiểu thật – làm thật.
+Mình muốn xây mọi thứ từ nền tảng đầu tiên: học thật – hiểu thật – làm thật.
 
 ---
 
