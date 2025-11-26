@@ -1,11 +1,11 @@
-<!-- Banner / Hacker Illustration -->
-<p align="center">
-  <img src="https://i.ibb.co/7VKcn30/hacker-minimal-dark.png" alt="hacker" width="480"/>
-</p>
-
 <h1 align="center">Hi, mình là Ngọc Mùi 👋</h1>
+
 <p align="center">
   <b>AI learner · LLM enthusiast · Economics x Tech</b>
+</p>
+
+<p align="center">
+  <code>learning from scratch · building small but real projects · moving steadily</code>
 </p>
 
 ---
@@ -18,13 +18,14 @@ Sau khi reset toàn bộ GitHub, mình muốn xây lại mọi thứ từ nền 
 
 ## ⚡ What I'm Doing
 - Đào sâu **AI & LLMs**: cách hoạt động, ứng dụng nhỏ, tư duy nền tảng  
-- Xây các **mini-project** để luyện tư duy và kỹ năng  
-- Học lại từ gốc: Git · Web cơ bản · CS fundamentals  
+- Xây các **mini-project** cá nhân để luyện tư duy và kỹ năng  
+- Học lại từ gốc: **Git**, **web cơ bản**, **CS fundamentals**  
 - Ghi chép lại những gì mình học để tạo một hành trình rõ ràng
 
 ---
 
 ## 🧩 Tech Stack & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
 </p>
@@ -33,25 +34,27 @@ Sau khi reset toàn bộ GitHub, mình muốn xây lại mọi thứ từ nền 
 
 ## 📁 What You'll Find Here
 - Dự án AI nhỏ tự làm  
-- Notes về LLM, kinh tế, CS & phân tích  
-- Script hỗ trợ cá nhân (tool nhỏ)  
-- Các thử nghiệm vui để hiểu bản chất công nghệ
+- Ghi chú về **LLM, kinh tế, CS, phân tích dữ liệu**  
+- Các script & tool nhỏ phục vụ việc học và công việc  
+- Những thử nghiệm để hiểu bản chất công nghệ, không phải project “cho đẹp hồ sơ”
 
 ---
 
-## 📚 My Learning Philosophy
+## 📚 Learning Philosophy
+
 > “Học chậm cũng được. Quan trọng là thật, hiểu kỹ, làm chuẩn.”
 
-- Không đu trend, không project rác  
-- Tập trung *chất lượng* hơn số lượng  
-- Mỗi repo đều phải giải thích được: **Nó giúp mình giỏi hơn ở điểm nào?**
+- Không đu trend, không làm project rác  
+- Tập trung **chất lượng** hơn số lượng  
+- Mỗi repo đều phải trả lời được câu hỏi:  
+  **“Nó giúp mình giỏi hơn ở điểm nào?”**
 
 ---
 
 ## 📬 Contact
-- Facebook: *(anh dán link FB)*  
-- Email: **pvnmui@gmail.com**
+
+- ✉️ Email: **pvnmui@gmail.com**
 
 ---
 
-<p align="center"><i>“Code quietly. Build loudly.”</i></p>
+<p align="center"><i>Code quietly. Grow steadily.</i></p>
